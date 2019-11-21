@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Денис Байдаров](https://up.htmlacademy.ru/ecmascript/10/user/7956).
-* Наставник: `Неизвестно`.
+* Наставник: [Денис Байдаров](https://up.htmlacademy.ru/ecmascript/10/user/7956).
 
 ---
 
